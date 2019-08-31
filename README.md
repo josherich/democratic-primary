@@ -1,4 +1,7 @@
 # democratic-primary
+
+[notebook](https://www.josherich.me/lda-demo-candidates.html)
+
 data and result of analyzing democratic primary candidates' tweets
 
 1. crawl tweets using [twint](https://github.com/twintproject/twint)
