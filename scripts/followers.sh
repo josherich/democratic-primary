@@ -1,0 +1,14 @@
+nohup twint -u BetoORourke --followers -o BetoORourke_flr_full.json --json --user-full &
+nohup twint -u BernieSanders --followers -o BernieSanders_flr_full.json --json --user-full &
+nohup twint -u KamalaHarris --followers -o KamalaHarris_flr_full.json --json --user-full &
+nohup twint -u BilldeBlasio --followers -o BilldeBlasio_flr_full.json --json --user-full &
+nohup twint -u JohnDelaney --followers -o JohnDelaney_flr_full.json --json --user-full &
+nohup twint -u PeteButtigieg --followers -o PeteButtigieg_flr_full.json --json --user-full &
+nohup twint -u Hickenlooper --followers -o Hickenlooper_flr_full.json --json --user-full &
+nohup twint -u GovernorBullock --followers -o GovernorBullock_flr_full.json --json --user-full &
+nohup twint -u MichaelBennet --followers -o MichaelBennet_flr_full.json --json --user-full &
+nohup twint -u amyklobuchar --followers -o amyklobuchar_flr_full.json --json --user-full &
+nohup twint -u TulsiGabbard --followers -o TulsiGabbard_flr_full.json --json --user-full &
+nohup twint -u JayInslee --followers -o JayInslee_flr_full.json --json --user-full &
+nohup twint -u JulianCastro --followers -o JulianCastro_flr_full.json --json --user-full &
+nohup twint -u CoryBooker --followers -o CoryBooker_flr_full.json --json --user-full &
